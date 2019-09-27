@@ -1,0 +1,4 @@
+Works in progress to be uploaded later:
+
+Project lead on 15 man tapestry project
+Django project for mobile development
