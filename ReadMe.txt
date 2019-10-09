@@ -1,6 +1,10 @@
 About the Projects:
 
 Elite Command:
+**TO RUN install Starcraft BroodWar and insert the .scx file into the maps
+folder associated with the game's install.  The game can be launched via the 
+custom games menu in either single player, or ideally multiplayer.  **
+
 Elite Command was my nod to the map GunshipRPG that I had enjoyed as a child.
 When the Remastered was announced I could think of no better way to commemorate
 the game that sparked my initial interest in programming and game design.
@@ -15,6 +19,10 @@ all is not as it seems.
 
 
 Shipwrecked:
+**TO RUN install WarcraftIII The Frozen Throne and insert the .w3x file into the maps
+folder associated with the game's install.  The game can be launched via the 
+custom games menu in either single player, or ideally multiplayer.  **
+
 This was ironically never supposed to be what it is.  Shipwrecked originally started
 because I wanted to experiment with class design concepts.  Piece by piece, new and 
 existing spells found synergies in each other as various character archtypes began to 
