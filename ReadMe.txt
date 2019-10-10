@@ -1,3 +1,6 @@
+Licensing: This repository is intended to be for demonstration purposes only. 
+The EULA of the various projects within may specify additional terms.
+
 About the Projects:
 
 Elite Command:
